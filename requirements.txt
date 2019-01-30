@@ -9,3 +9,4 @@ websockets==7.0
 django-channels
 pynput==1.4
 django_extensions
+whitenoise
